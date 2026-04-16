@@ -49,7 +49,6 @@
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan07-vn&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=quoctoan07-vn&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
