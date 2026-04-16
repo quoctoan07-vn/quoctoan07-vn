@@ -7,13 +7,13 @@
 
 <h1 align="center"><a href="https://github.com/quoctoan07-vn">QuocToan</a></h1>
 <p align="center">
-  <a href="https://github.com/quoctoan07-cheater">
+  <a href="https://github.com/quoctoan07-vn">
     <img src="https://komarev.com/ghpvc/?username=quoctoan07-vn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/quoctoan07-cheater?tab=followers">
+  <a href="https://github.com/quoctoan07-vn?tab=followers">
     <img src="https://img.shields.io/github/followers/quoctoan07-vn?label=Followers&style=social" alt="followers" />
   </a>
-  <a href="https://github.com/quoctoan07-cheater">
+  <a href="https://github.com/quoctoan07-vn">
     <img src="https://img.shields.io/github/stars/quoctoan07-vn?label=Total%20Stars&style=social" alt="stars" />
   </a>
 </p>
