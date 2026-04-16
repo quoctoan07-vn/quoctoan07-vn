@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Kỹ năng & Công nghệ
+### 🚀 Kỹ năng
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -47,11 +47,6 @@
 ---
 
 ### 📊 Thống kê GitHub
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=quoctoan07-vn&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=quoctoan07-vn&theme=radical&hide_border=true" />
-</div>
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan07-vn&layout=compact&theme=radical&hide_border=true&langs_count=8" />
