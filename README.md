@@ -5,18 +5,16 @@
 ================================================================================
 -->
 
-<h1 align="center">👋 Xin chào, tôi là <a href="https://github.com/quoctoan07-cheater">QuocToanDev</a></h1>
-<h3 align="center">🛡️ Nhà nghiên cứu bảo mật Android | Nhà phát triển Native (C++/JNI) | Game Hacking & Anti-Cheat</h3>
-
+<h1 align="center"><a href="https://github.com/quoctoan07-vn">QuocToanDev</a></h1>
 <p align="center">
   <a href="https://github.com/quoctoan07-cheater">
-    <img src="https://komarev.com/ghpvc/?username=quoctoan07-cheater&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=quoctoan07-vn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
   <a href="https://github.com/quoctoan07-cheater?tab=followers">
-    <img src="https://img.shields.io/github/followers/quoctoan07-cheater?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/quoctoan07-vn?label=Followers&style=social" alt="followers" />
   </a>
   <a href="https://github.com/quoctoan07-cheater">
-    <img src="https://img.shields.io/github/stars/quoctoan07-cheater?label=Total%20Stars&style=social" alt="stars" />
+    <img src="https://img.shields.io/github/stars/quoctoan07-vn?label=Total%20Stars&style=social" alt="stars" />
   </a>
 </p>
 
@@ -25,11 +23,10 @@
 ### 🧑‍💻 Giới thiệu
 
 - 🔭 Tôi đang phát triển các giải pháp **bảo vệ ứng dụng Android** (obfuscation, anti-tamper, integrity check).
-- 🌱 Tôi chuyên sâu về **C++**, **JNI**, **Native hooking (Substrate, Dobby, And64InlineHook)**, và **mã hóa/xor dữ liệu**.
+- 🌱 Tôi chuyên sâu về **C++**, **JNI**, **Native hooking**, và **mã hóa/xor dữ liệu**.
 - 👯 Tôi sẵn sàng cộng tác trong các dự án về **bảo mật ứng dụng di động** hoặc **reverse engineering**.
 - 💬 Hỏi tôi về: **Android NDK**, **Kỹ thuật chống crack**, **Xử lý tín hiệu (anti-debug)**, **Xây dựng công cụ mod an toàn**.
-- 📫 Liên hệ: **quoctoandev@example.com** (thay bằng email thật)
-- ⚡ Sự thật thú vị: Tôi đã viết framework bảo vệ mã nguồn `QUOCTOANDEV.h` – kết hợp compile‑time encryption, MBA obfuscation và runtime string protection.
+- 📫 Liên hệ: **nqtoan27@gmail.com**
 
 ---
 
@@ -52,13 +49,13 @@
 ### 📊 Thống kê GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=quoctoan07-cheater&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=quoctoan07-cheater&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=quoctoan07-vn&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=quoctoan07-vn&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan07-cheater&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=quoctoan07-cheater&theme=radical&no-frame=true&row=1&column=6" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan07-vn&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=quoctoan07-vn&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
