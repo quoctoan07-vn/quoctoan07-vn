@@ -55,45 +55,18 @@
 
 ---
 
-### 🔥 Dự án nổi bật
-
-- **QUOCTOANDEV Protection Framework** – Header‑only C++ library cung cấp compile‑time encryption, runtime string protection, MBA obfuscation và integrity checking.  
-  ![GitHub stars](https://img.shields.io/github/stars/quoctoan07-cheater/QUOCTOANDEV?style=social)
-
-- **Mod-Android (Template)** – Mẫu project Android mod với cấu trúc JNI, hỗ trợ hooking, bypass signature, và các kỹ thuật anti‑detection.  
-  ![GitHub stars](https://img.shields.io/github/stars/quoctoan07-cheater/Mod-Android?style=social)
-
-- **Touch-AOV** – Công cụ hỗ trợ điều khiển cảm ứng cho game AOV (phục vụ mục đích nghiên cứu).  
-  ![GitHub stars](https://img.shields.io/github/stars/quoctoan07-cheater/Touch-AOV?style=social)
-
-*(Bạn có thể thay bằng link thật và số sao)*
-
----
-
 ### 📫 Kết nối với tôi
 
 <p align="center">
-  <a href="https://github.com/quoctoan07-cheater">
+  <a href="https://github.com/quoctoan07-vn">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/quoctoandev">
+  <a href="https://t.me/quoctoansieudz">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:quoctoandev@example.com">
+  <a href="mailto:nqtoan27@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/c/quoctoandev">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 ---
-
-### ✨ Hỗ trợ dự án
-
-Nếu bạn thấy các dự án của tôi hữu ích, hãy cho một ⭐ trên GitHub và chia sẻ với bạn bè. Mọi đóng góp (issue, pull request) đều được chào đón!
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" />
-</p>
