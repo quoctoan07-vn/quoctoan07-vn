@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDAPRO-important?style=for-the-badge&logo=hex&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA-important?style=for-the-badge&logo=hex&logoColor=white" />
   <img src="https://img.shields.io/badge/Frida-009688?style=for-the-badge&logo=frida&logoColor=white" />
 </p>
 
