@@ -5,7 +5,7 @@
 ================================================================================
 -->
 
-<h1 align="center"><a href="https://github.com/quoctoan07-vn">QuocToanDev</a></h1>
+<h1 align="center"><a href="https://github.com/quoctoan07-vn">QuocToan</a></h1>
 <p align="center">
   <a href="https://github.com/quoctoan07-cheater">
     <img src="https://komarev.com/ghpvc/?username=quoctoan07-vn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -36,9 +36,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/IDAPRO-important?style=for-the-badge&logo=hex&logoColor=white" />
   <img src="https://img.shields.io/badge/Frida-009688?style=for-the-badge&logo=frida&logoColor=white" />
 </p>
