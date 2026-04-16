@@ -26,7 +26,6 @@
 - 🌱 Tôi chuyên sâu về **C++**, **JNI**, **Native hooking**, và **mã hóa/xor dữ liệu**.
 - 👯 Tôi sẵn sàng cộng tác trong các dự án về **bảo mật ứng dụng di động** hoặc **reverse engineering**.
 - 💬 Hỏi tôi về: **Android NDK**, **Kỹ thuật chống crack**, **Xử lý tín hiệu (anti-debug)**, **Xây dựng công cụ mod an toàn**.
-- 📫 Liên hệ: **nqtoan27@gmail.com**
 
 ---
 
