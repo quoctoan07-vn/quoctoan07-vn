@@ -43,7 +43,7 @@
 ### 📊 Thống kê GitHub
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan07-vn&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan07-vn&layout=compact&theme=radical&hide_border=true&langs_count=100" />
 </div>
 
 ---
