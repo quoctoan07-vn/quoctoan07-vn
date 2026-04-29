@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 Giới thiệu
 
-- 💬 Tôi đang phát triển các giải pháp **bảo vệ ứng dụng Android**.
+- 💬 Dev Lor**.
 
 ---
 
