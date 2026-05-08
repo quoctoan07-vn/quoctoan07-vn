@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 Giới thiệu
 
-- 💬 Dev Lor.
+- 💬 Dev Lor
 
 ---
 
@@ -37,14 +37,6 @@
   <img src="https://img.shields.io/badge/IDA-important?style=for-the-badge&logo=hex&logoColor=white" />
   <img src="https://img.shields.io/badge/Frida-009688?style=for-the-badge&logo=frida&logoColor=white" />
 </p>
-
----
-
-### 📊 Thống kê GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan07-vn&layout=compact&theme=radical&hide_border=true&langs_count=100" />
-</div>
 
 ---
 
