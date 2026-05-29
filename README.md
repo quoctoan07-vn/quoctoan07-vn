@@ -56,6 +56,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan07-vn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="languages"/>
 </p>
 
+*Nếu streak vẫn lỗi, hãy thay bằng endpoint dự phòng:*  
+`https://streak-stats.demolab.com?user=quoctoan07-vn&theme=tokyonight&hide_border=true`
+
 ---
 
 ### Trophy Case
@@ -63,6 +66,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=quoctoan07-vn&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
+
+*(Nếu ảnh trắng hoặc lỗi, kiểm tra lại xem tài khoản có public contributions và không bị chặn API nhé)*
 
 ---
 
