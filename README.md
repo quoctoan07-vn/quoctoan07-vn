@@ -20,13 +20,13 @@
 
 ---
 
-### <img src="https://emojicdn.elk.sh/🧑‍💻" width="28" height="28" /> Giới thiệu
+### <img src="https://emojicdn.elk.sh/%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" width="28" height="28" /> Giới thiệu
 
 - 💬 Dev Lor
 
 ---
 
-### <img src="https://emojicdn.elk.sh/🚀" width="28" height="28" /> Kỹ năng
+### <img src="https://emojicdn.elk.sh/%F0%9F%9A%80" width="28" height="28" /> Kỹ năng
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,7 +52,7 @@
 
 ---
 
-### <img src="https://emojicdn.elk.sh/📫" width="28" height="28" /> Kết nối với tôi
+### <img src="https://emojicdn.elk.sh/%F0%9F%93%AB" width="28" height="28" /> Kết nối với tôi
 
 <p align="center">
   <a href="https://github.com/quoctoan07-vn">
