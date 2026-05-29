@@ -33,15 +33,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Frida-009688?style=for-the-badge&logo=frida&logoColor=white" />
   <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=hex&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDB-4B0082?style=for-the-badge&logo=gnu&logoColor=white" />
-</p>
-
----
-
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quoctoan07-vn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="stats"/>
 </p>
 
 ---
