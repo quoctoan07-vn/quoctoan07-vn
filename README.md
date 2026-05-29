@@ -29,25 +29,28 @@
 ### <img src="https://emojicdn.elk.sh/%F0%9F%9A%80" width="28" height="28" /> Kỹ năng
 
 <p align="center">
+  <!-- C++ -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="48" height="48" />
   </a>
+  <!-- Java -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="48" height="48" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android" alt="Android" title="Android" width="48" height="48" />
-  </a>
+  <!-- Android (badge plastic vì skill-icons không có) -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" alt="Android" title="Android" />
+  <!-- Git -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />
   </a>
+  <!-- CMake -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="48" height="48" />
   </a>
+  <!-- IDA (badge plastic) -->
   <img src="https://img.shields.io/badge/IDA-important?style=plastic&logo=hex&logoColor=white" alt="IDA" title="IDA Pro" />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=frida" alt="Frida" title="Frida" width="48" height="48" />
-  </a>
+  <!-- Frida (badge plastic vì skill-icons không có) -->
+  <img src="https://img.shields.io/badge/Frida-009688?style=plastic&logo=frida&logoColor=white" alt="Frida" title="Frida" />
 </p>
 
 ---
