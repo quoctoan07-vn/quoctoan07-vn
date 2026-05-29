@@ -20,13 +20,13 @@
 
 ---
 
-### 🧑‍💻 Giới thiệu
+### <img src="https://emojicdn.elk.sh/🧑‍💻" width="28" height="28" /> Giới thiệu
 
 - 💬 Dev Lor
 
 ---
 
-### 🚀 Kỹ năng
+### <img src="https://emojicdn.elk.sh/🚀" width="28" height="28" /> Kỹ năng
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +44,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="48" height="48" />
   </a>
-  <!-- IDA không có trong skill-icons, dùng badge plastic thay thế -->
   <img src="https://img.shields.io/badge/IDA-important?style=plastic&logo=hex&logoColor=white" alt="IDA" title="IDA Pro" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=frida" alt="Frida" title="Frida" width="48" height="48" />
@@ -53,7 +52,7 @@
 
 ---
 
-### 📫 Kết nối với tôi
+### <img src="https://emojicdn.elk.sh/📫" width="28" height="28" /> Kết nối với tôi
 
 <p align="center">
   <a href="https://github.com/quoctoan07-vn">
