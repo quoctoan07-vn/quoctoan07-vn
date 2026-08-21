@@ -38,31 +38,11 @@ contact:   "See below"
 ## Skills & Tools
 
 <p align="center">
-  <sub><b>LANGUAGES</b></sub>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-121212?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Kotlin-121212?style=flat-square&logo=kotlin&logoColor=7F52FF" />
-  <img src="https://img.shields.io/badge/Java-121212?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,androidstudio,git" />
 </p>
 
 <p align="center">
-  <sub><b>ANDROID & NATIVE</b></sub>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-121212?style=flat-square&logo=android&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/NDK-121212?style=flat-square&logo=android&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/CMake-121212?style=flat-square&logo=cmake&logoColor=064F8C" />
-  <img src="https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=F05032" />
-</p>
-
-<p align="center">
-  <sub><b>SECURITY & REVERSE ENGINEERING</b></sub>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Frida-121212?style=flat-square&logo=frida&logoColor=009688" />
-  <img src="https://img.shields.io/badge/IDA_Pro-121212?style=flat-square&logo=hex&logoColor=ffffff" />
+  <sub>Reverse engineering & instrumentation: Frida · IDA Pro · CMake</sub>
 </p>
 
 <br/>
