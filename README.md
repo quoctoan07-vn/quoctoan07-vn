@@ -4,21 +4,21 @@
 
 <div align="center">
   <a href="https://github.com/quoctoan07-vn">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Android+Security+Researcher;Native+C%2B%2B+%2F+NDK+Developer;Reverse+Engineering+%26+Frida+Instrumentation;Building+secure+mobile+systems&font=Fira+Code&center=true&width=600&height=45&color=3DDC84&vCenter=true&size=22&pause=1500" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Android+Security+Researcher;Native+C%2B%2B+%2F+NDK+Developer;Reverse+Engineering+%26+Frida+Instrumentation;Building+secure+mobile+systems&font=Fira+Code&center=true&width=440&height=45&color=3DDC84&vCenter=true&size=18&pause=1500" alt="Typing SVG"/>
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/quoctoan07-vn">
-    <img src="https://komarev.com/ghpvc/?username=quoctoan07-vn&label=PROFILE+VIEWS&color=3DDC84&style=for-the-badge" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=quoctoan07-vn&label=PROFILE+VIEWS&color=3DDC84&style=flat-square" alt="Profile views"/>
   </a>
   &nbsp;
   <a href="https://github.com/quoctoan07-vn?tab=followers">
-    <img src="https://img.shields.io/github/followers/quoctoan07-vn?label=FOLLOWERS&style=for-the-badge&color=3DDC84&logo=github&logoColor=white" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/quoctoan07-vn?label=FOLLOWERS&style=flat-square&color=3DDC84&logo=github&logoColor=white" alt="Followers"/>
   </a>
   &nbsp;
   <a href="https://github.com/quoctoan07-vn?tab=repositories">
-    <img src="https://img.shields.io/github/stars/quoctoan07-vn?label=STARS&style=for-the-badge&color=3DDC84&logo=github&logoColor=white" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/quoctoan07-vn?label=STARS&style=flat-square&color=3DDC84&logo=github&logoColor=white" alt="Stars"/>
   </a>
 </p>
 
@@ -39,36 +39,48 @@ contact:   "See below"
 
 ## Skills
 
-<p>
-  <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="22" alt=""/> <b>Reverse Engineering</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="22" alt=""/> <b>Native NDK/C++</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="22" alt=""/> <b>Mobile App Security</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="22" alt=""/> <b>Frida Instrumentation</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="22" alt=""/> <b>Docker</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="22" alt=""/> <b>MySQL</b>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="22" alt=""/> <b>Reverse Engineering</b></td>
+    <td><img src="https://cdn.simpleicons.org/android/3DDC84" width="22" alt=""/> <b>Native NDK/C++</b></td>
+    <td><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="22" alt=""/> <b>Mobile App Security</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="22" alt=""/> <b>Frida Instrumentation</b></td>
+    <td><img src="https://cdn.simpleicons.org/docker/2496ED" width="22" alt=""/> <b>Docker</b></td>
+    <td><img src="https://cdn.simpleicons.org/mysql/4479A1" width="22" alt=""/> <b>MySQL</b></td>
+  </tr>
+</table>
 
 ## Tools
 
-<p>
-  <img src="https://frida.re/img/logotype.svg" height="18" alt="Frida"/> <b>Frida</b> &nbsp;·&nbsp;
-  <img src="https://hex-rays.com/hs-fs/hubfs/ladyida.png?width=44&name=ladyida.png" width="22" alt="IDA Pro"/> <b>IDA</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/cmake/064F8C" width="22" alt=""/> <b>CMake</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="22" alt=""/> <b>Git</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="22" alt=""/> <b>Android Studio</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="22" alt=""/> <b>Wireshark</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="22" alt=""/> <b>Linux</b>
-</p>
+<table>
+  <tr>
+    <td><img src="https://frida.re/img/logotype.svg" height="18" alt="Frida"/> <b>Frida</b></td>
+    <td><img src="https://hex-rays.com/hs-fs/hubfs/ladyida.png?width=44&name=ladyida.png" width="22" alt="IDA"/> <b>IDA</b></td>
+    <td><img src="https://cdn.simpleicons.org/cmake/064F8C" width="22" alt=""/> <b>CMake</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/git/F05032" width="22" alt=""/> <b>Git</b></td>
+    <td><img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="22" alt=""/> <b>Android Studio</b></td>
+    <td><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="22" alt=""/> <b>Wireshark</b></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="https://cdn.simpleicons.org/linux/FCC624" width="22" alt=""/> <b>Linux</b></td>
+  </tr>
+</table>
 
 ## Languages
 
-<p>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="22" alt=""/> <b>C++</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="22" alt=""/> <b>Kotlin</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="22" alt=""/> <b>Java</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="22" alt=""/> <b>Python</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="22" alt=""/> <b>SQL</b>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="22" alt=""/> <b>C++</b></td>
+    <td><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="22" alt=""/> <b>Kotlin</b></td>
+    <td><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="22" alt=""/> <b>Java</b></td>
+    <td><img src="https://cdn.simpleicons.org/python/3776AB" width="22" alt=""/> <b>Python</b></td>
+    <td><img src="https://cdn.simpleicons.org/sqlite/003B57" width="22" alt=""/> <b>SQL</b></td>
+  </tr>
+</table>
 
 ---
 
