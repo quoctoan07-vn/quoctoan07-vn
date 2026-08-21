@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## About
 
 ```yaml
 name:      "Nong Quoc Toan"
@@ -30,33 +30,40 @@ role:      "Android Security Researcher & Native Developer"
 focus:     ["Reverse Engineering", "Native (NDK/C++) Development", "Mobile App Security"]
 tools:     ["Frida", "IDA Pro", "CMake"]
 languages: ["C++", "Kotlin", "Java", "Python"]
-contact:   "See below ⬇️"
+contact:   "See below"
 ```
 
 <br/>
 
-## 🧰 Skills & Tools
+## Skills & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/NDK-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Frida-009688?style=for-the-badge&logo=frida&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=hex&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>Languages</b><br/><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Android & Native</b><br/><br/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/NDK-4285F4?style=flat-square&logo=android&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Security & Reverse Engineering</b><br/><br/>
+      <img src="https://img.shields.io/badge/Frida-009688?style=flat-square&logo=frida&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/IDA_Pro-000000?style=flat-square&logo=hex&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=quoctoan07-vn&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=C9D1D9" />
@@ -73,7 +80,7 @@ contact:   "See below ⬇️"
 
 <br/>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/quoctoan07-vn"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" /></a>
