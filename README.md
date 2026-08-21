@@ -1,18 +1,3 @@
-<style>
-:root {
-  --primary: #667eea;
-  --secondary: #764ba2;
-  --accent: #f093fb;
-  --dark: #0a0e27;
-  --light: #f6f8fb;
-}
-
-body {
-  background: linear-gradient(135deg, #0a0e27 0%, #16213e 50%, #0f3460 100%);
-  min-height: 100vh;
-}
-</style>
-
 <div align="center">
   <div style="position: relative; padding: 40px 20px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 50%, rgba(240, 147, 251, 0.1) 100%); border-radius: 15px; margin-bottom: 30px; border: 1px solid rgba(102, 126, 234, 0.3); backdrop-filter: blur(10px);">
     <h1 style="color: #667eea; font-size: 3em; margin: 10px 0; font-weight: 800; letter-spacing: -1px; text-shadow: 0 0 20px rgba(102, 126, 234, 0.3);">Nong Quoc Toan</h1>
@@ -41,7 +26,6 @@ body {
 ## Technical Stack
 
 <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%); padding: 20px; border-radius: 12px; border: 1px solid rgba(102, 126, 234, 0.2); margin: 30px 0; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: -50%; right: -50%; width: 100%; height: 100%; background: radial-gradient(circle, rgba(240, 147, 251, 0.1) 0%, transparent 70%); animation: float 15s ease-in-out infinite; pointer-events: none;"></div>
   
   <table style="width: 100%; border-collapse: collapse; margin: 20px 0; position: relative; z-index: 1;">
     <tr style="background: linear-gradient(90deg, rgba(102, 126, 234, 0.8) 0%, rgba(118, 75, 162, 0.8) 100%); height: 50px;">
@@ -88,7 +72,7 @@ body {
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
 
-<div style="flex: 1; min-width: 250px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(102, 126, 234, 0.05) 100%); border-left: 4px solid #667eea; border-radius: 8px; padding: 20px; position: relative; overflow: hidden; border: 1px solid rgba(102, 126, 234, 0.2); transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.1);">
+<div style="flex: 1; min-width: 250px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(102, 126, 234, 0.05) 100%); border-left: 4px solid #667eea; border-radius: 8px; padding: 20px; position: relative; overflow: hidden; border: 1px solid rgba(102, 126, 234, 0.2); box-shadow: 0 4px 15px rgba(102, 126, 234, 0.1);">
   <div style="position: absolute; top: -50%; right: -30%; width: 150px; height: 150px; background: radial-gradient(circle, rgba(240, 147, 251, 0.3) 0%, transparent 70%); border-radius: 50%;"></div>
   <h3 style="color: #667eea; margin-top: 0; font-size: 1.1em; font-weight: 700; position: relative; z-index: 1;">Android Security</h3>
   <ul style="margin: 10px 0; padding-left: 20px; line-height: 2; position: relative; z-index: 1; color: #555;">
@@ -100,7 +84,7 @@ body {
   </ul>
 </div>
 
-<div style="flex: 1; min-width: 250px; background: linear-gradient(135deg, rgba(118, 75, 162, 0.1) 0%, rgba(118, 75, 162, 0.05) 100%); border-left: 4px solid #764ba2; border-radius: 8px; padding: 20px; position: relative; overflow: hidden; border: 1px solid rgba(118, 75, 162, 0.2); transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(118, 75, 162, 0.1);">
+<div style="flex: 1; min-width: 250px; background: linear-gradient(135deg, rgba(118, 75, 162, 0.1) 0%, rgba(118, 75, 162, 0.05) 100%); border-left: 4px solid #764ba2; border-radius: 8px; padding: 20px; position: relative; overflow: hidden; border: 1px solid rgba(118, 75, 162, 0.2); box-shadow: 0 4px 15px rgba(118, 75, 162, 0.1);">
   <div style="position: absolute; top: -50%; right: -30%; width: 150px; height: 150px; background: radial-gradient(circle, rgba(240, 147, 251, 0.3) 0%, transparent 70%); border-radius: 50%;"></div>
   <h3 style="color: #764ba2; margin-top: 0; font-size: 1.1em; font-weight: 700; position: relative; z-index: 1;">Native Security</h3>
   <ul style="margin: 10px 0; padding-left: 20px; line-height: 2; position: relative; z-index: 1; color: #555;">
@@ -116,7 +100,7 @@ body {
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
 
-<div style="flex: 1; min-width: 250px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(102, 126, 234, 0.05) 100%); border-left: 4px solid #667eea; border-radius: 8px; padding: 20px; position: relative; overflow: hidden; border: 1px solid rgba(102, 126, 234, 0.2); transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.1);">
+<div style="flex: 1; min-width: 250px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(102, 126, 234, 0.05) 100%); border-left: 4px solid #667eea; border-radius: 8px; padding: 20px; position: relative; overflow: hidden; border: 1px solid rgba(102, 126, 234, 0.2); box-shadow: 0 4px 15px rgba(102, 126, 234, 0.1);">
   <div style="position: absolute; bottom: -50%; left: -30%; width: 150px; height: 150px; background: radial-gradient(circle, rgba(240, 147, 251, 0.3) 0%, transparent 70%); border-radius: 50%;"></div>
   <h3 style="color: #667eea; margin-top: 0; font-size: 1.1em; font-weight: 700; position: relative; z-index: 1;">Reverse Engineering</h3>
   <ul style="margin: 10px 0; padding-left: 20px; line-height: 2; position: relative; z-index: 1; color: #555;">
@@ -128,7 +112,7 @@ body {
   </ul>
 </div>
 
-<div style="flex: 1; min-width: 250px; background: linear-gradient(135deg, rgba(118, 75, 162, 0.1) 0%, rgba(118, 75, 162, 0.05) 100%); border-left: 4px solid #764ba2; border-radius: 8px; padding: 20px; position: relative; overflow: hidden; border: 1px solid rgba(118, 75, 162, 0.2); transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(118, 75, 162, 0.1);">
+<div style="flex: 1; min-width: 250px; background: linear-gradient(135deg, rgba(118, 75, 162, 0.1) 0%, rgba(118, 75, 162, 0.05) 100%); border-left: 4px solid #764ba2; border-radius: 8px; padding: 20px; position: relative; overflow: hidden; border: 1px solid rgba(118, 75, 162, 0.2); box-shadow: 0 4px 15px rgba(118, 75, 162, 0.1);">
   <div style="position: absolute; bottom: -50%; left: -30%; width: 150px; height: 150px; background: radial-gradient(circle, rgba(240, 147, 251, 0.3) 0%, transparent 70%); border-radius: 50%;"></div>
   <h3 style="color: #764ba2; margin-top: 0; font-size: 1.1em; font-weight: 700; position: relative; z-index: 1;">Secure Development</h3>
   <ul style="margin: 10px 0; padding-left: 20px; line-height: 2; position: relative; z-index: 1; color: #555;">
@@ -211,19 +195,19 @@ body {
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; position: relative; z-index: 1;">
       <div style="background: rgba(255, 255, 255, 0.08); padding: 15px; border-radius: 8px; border-left: 3px solid #667eea; backdrop-filter: blur(10px);">
         <h4 style="margin-top: 0; color: #667eea; font-weight: 700;">Mobile Security</h4>
-        <p style="margin: 5px 0; font-size: 0.9em; color: #666;">Discovering and analyzing Android vulnerabilities</p>
+        <p style="margin: 5px 0; font-size: 0.9em; color: #888;">Discovering and analyzing Android vulnerabilities</p>
       </div>
       <div style="background: rgba(255, 255, 255, 0.08); padding: 15px; border-radius: 8px; border-left: 3px solid #764ba2; backdrop-filter: blur(10px);">
         <h4 style="margin-top: 0; color: #764ba2; font-weight: 700;">NDK Development</h4>
-        <p style="margin: 5px 0; font-size: 0.9em; color: #666;">Performance-critical native code</p>
+        <p style="margin: 5px 0; font-size: 0.9em; color: #888;">Performance-critical native code</p>
       </div>
       <div style="background: rgba(255, 255, 255, 0.08); padding: 15px; border-radius: 8px; border-left: 3px solid #667eea; backdrop-filter: blur(10px);">
         <h4 style="margin-top: 0; color: #667eea; font-weight: 700;">Security Tooling</h4>
-        <p style="margin: 5px 0; font-size: 0.9em; color: #666;">Building penetration testing tools</p>
+        <p style="margin: 5px 0; font-size: 0.9em; color: #888;">Building penetration testing tools</p>
       </div>
       <div style="background: rgba(255, 255, 255, 0.08); padding: 15px; border-radius: 8px; border-left: 3px solid #764ba2; backdrop-filter: blur(10px);">
         <h4 style="margin-top: 0; color: #764ba2; font-weight: 700;">Vulnerability Research</h4>
-        <p style="margin: 5px 0; font-size: 0.9em; color: #666;">Responsible disclosure & reporting</p>
+        <p style="margin: 5px 0; font-size: 0.9em; color: #888;">Responsible disclosure & reporting</p>
       </div>
     </div>
   </div>
@@ -289,35 +273,3 @@ body {
     </div>
   </div>
 </div>
-
----
-
-<div align="center" style="margin-top: 40px; padding: 40px 30px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.08) 0%, rgba(118, 75, 162, 0.08) 100%); border-radius: 12px; border: 1px solid rgba(102, 126, 234, 0.15); position: relative; overflow: hidden;">
-  <div style="position: absolute; bottom: -100px; right: -100px; width: 200px; height: 200px; background: radial-gradient(circle, rgba(240, 147, 251, 0.2) 0%, transparent 70%); border-radius: 50%;"></div>
-  <div style="position: absolute; top: -100px; left: -100px; width: 200px; height: 200px; background: radial-gradient(circle, rgba(102, 126, 234, 0.2) 0%, transparent 70%); border-radius: 50%;"></div>
-  
-  <h2 style="color: #667eea; margin-top: 0; position: relative; z-index: 1; font-size: 1.8em; font-weight: 800;">Thank You for Visiting</h2>
-  <p style="color: #555; font-size: 1.05em; line-height: 1.6; max-width: 600px; margin: 15px auto; position: relative; z-index: 1;">
-    Let's build more secure mobile ecosystems together.<br>
-    <span style="color: #667eea; font-weight: 600;">Feel free to reach out for collaboration, research, or security discussions.</span>
-  </p>
-  <p style="color: #999; margin-top: 20px; font-size: 0.9em; position: relative; z-index: 1;">
-    Last Updated: August 2026<br>
-    <span style="color: #667eea; font-weight: 600;">Security researcher dedicated to mobile ecosystem protection</span>
-  </p>
-</div>
-
-<style>
-@keyframes float {
-  0%, 100% {
-    transform: translateY(0px) translateX(0px);
-  }
-  50% {
-    transform: translateY(-20px) translateX(10px);
-  }
-}
-
-div[style*="animation: float"] {
-  animation: float 15s ease-in-out infinite;
-}
-</style>
