@@ -2,105 +2,218 @@
 
 **Android Security Researcher | Native Developer | Security Engineer**
 
+> *Specialized in mobile security, reverse engineering, and secure system design*
+
 ---
 
-## About
-
-Specialized in Android security research and native development with expertise in reverse engineering, vulnerability analysis, and secure coding practices. Passionate about building secure applications and discovering vulnerabilities through comprehensive security testing.
+## 🎯 Profile
 
 ```
-Role:       Android Security Researcher & Native Developer
-Focus:      Reverse Engineering, Native (NDK/C++) Development, Mobile App Security
-Languages:  C++, Kotlin, Java, Python
-Tools:      Frida, IDA Pro, CMake, Android Studio
-Email:      nqtoan27@gmail.com
+┌─────────────────────────────────────────┐
+│  Android Security Researcher & Developer │
+│                                          │
+│  Expertise:  Reverse Engineering        │
+│              Mobile App Security        │
+│              Native Development (NDK)   │
+│              Vulnerability Analysis     │
+│                                          │
+│  Email:      nqtoan27@gmail.com         │
+│  Location:   Vietnam                    │
+└─────────────────────────────────────────┘
 ```
 
 ---
 
-## Technical Skills
+## 💻 Technical Stack
 
-### Programming Languages
-- **C/C++** - System programming, JNI development, performance-critical code
-- **Java** - Android application development, OOP design patterns
-- **Kotlin** - Modern Android development, coroutines, extension functions
-- **Python** - Security tooling, automation scripts, data analysis
+### 🔤 Programming Languages
 
-### Android Development
-- Android Framework & Core APIs
-- Android NDK (Native Development Kit)
-- JNI (Java Native Interface)
-- Android Security Model & Permissions
-- Activity/Fragment/Service Architecture
-- Gradle & Build Systems
+| Language | Proficiency | Use Cases |
+|----------|------------|-----------|
+| **C/C++** | ⭐⭐⭐⭐⭐ | System programming, JNI, NDK development |
+| **Kotlin** | ⭐⭐⭐⭐⭐ | Modern Android apps, coroutines |
+| **Java** | ⭐⭐⭐⭐⭐ | Android framework, backend services |
+| **Python** | ⭐⭐⭐⭐ | Security tools, automation, scripting |
 
-### Security & Analysis
-- **Reverse Engineering** - APK unpacking, decompilation, bytecode analysis
-- **Dynamic Analysis** - Runtime instrumentation, behavior monitoring
-- **Static Analysis** - Code review, vulnerability detection, threat modeling
-- **Tools** - Frida, IDA Pro, Android Debugger, Burp Suite, APKTool
+### 📱 Android Ecosystem
 
-### Build & Development Tools
-- CMake - Cross-platform build configuration
-- Git - Version control workflows
-- Android Studio - Full IDE development
-- Gradle - Dependency management and automation
+```
+┌──────────────────────────────────────────────────┐
+│  ANDROID FRAMEWORK                               │
+├──────────────────────────────────────────────────┤
+│  • Activity/Fragment/Service Architecture        │
+│  • Android NDK & JNI Integration                 │
+│  • Permission Model & Security Context           │
+│  • Intent System & Inter-Process Communication  │
+│  • Content Providers & SQLite                    │
+│  • Gradle Build System & Dependency Management  │
+└──────────────────────────────────────────────────┘
+```
 
----
+### 🔒 Security & Analysis Tools
 
-## Experience & Expertise
+```
+Dynamic Analysis          Static Analysis         Reverse Engineering
+├─ Frida                 ├─ IDA Pro              ├─ APKTool
+├─ Android Debugger      ├─ Jadx                 ├─ Burp Suite
+├─ Logcat Monitoring     ├─ MobSF                └─ Ghidra
+└─ Runtime Hooking       └─ FindBugs
+```
 
-- Android application security assessment and penetration testing
-- Native code security analysis and optimization
-- Vulnerability identification, classification, and remediation
-- Security architecture design and review
-- Exploit development and proof-of-concept creation
-- Code review and secure development consulting
+### 🛠️ Development Tools
 
----
-
-## Focus Areas
-
-**Android Security**
-- Framework vulnerabilities and exploitation
-- Intent-based security flaws
-- Permission bypass techniques
-- Signature verification weaknesses
-
-**Native Security (C/C++)**
-- Memory safety vulnerabilities
-- Buffer overflow and heap exploitation
-- ROP gadget chains
-- ASLR and DEP bypass techniques
-
-**Reverse Engineering**
-- APK unpacking and obfuscation analysis
-- Native library decompilation
-- Protocol reverse engineering
-- Binary patching techniques
-
-**Secure Development**
-- OWASP Mobile Top 10 prevention
-- Secure coding guidelines
-- Cryptography implementation
-- Secure data storage practices
+- **Build Systems**: CMake, Gradle, Maven
+- **Version Control**: Git, GitHub, GitLab
+- **IDE**: Android Studio, Visual Studio Code, CLion
+- **Testing**: JUnit, Mockito, Espresso
 
 ---
 
-## Statistics
+## 🎓 Expertise Areas
 
-![Profile Views](https://komarev.com/ghpvc/?username=quoctoan07-vn&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/quoctoan07-vn?label=Followers&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/quoctoan07-vn?label=Stars&style=flat)
+### 1️⃣ Android Security
+
+```
+┌─────────────────────────────────────┐
+│  ANDROID SECURITY RESEARCH          │
+├─────────────────────────────────────┤
+│  ✓ Framework Vulnerability Analysis │
+│  ✓ Permission Bypass Techniques     │
+│  ✓ Intent-based Exploitation        │
+│  ✓ Signature Verification Flaws     │
+│  ✓ Content Provider Vulnerabilities │
+│  ✓ Secure Data Storage Best Practices
+└─────────────────────────────────────┘
+```
+
+### 2️⃣ Native Security (C/C++)
+
+```
+┌──────────────────────────────────┐
+│  NATIVE CODE SECURITY            │
+├──────────────────────────────────┤
+│  ✓ Memory Safety Vulnerabilities │
+│  ✓ Buffer Overflow Exploitation  │
+│  ✓ Heap Exploitation Techniques  │
+│  ✓ ROP Gadget Chain Construction │
+│  ✓ ASLR & DEP Bypass Methods    │
+│  ✓ JNI Security Pitfalls        │
+└──────────────────────────────────┘
+```
+
+### 3️⃣ Reverse Engineering
+
+```
+┌──────────────────────────────────┐
+│  REVERSE ENGINEERING SKILLS       │
+├──────────────────────────────────┤
+│  ✓ APK Unpacking & Analysis      │
+│  ✓ Obfuscation Bypass            │
+│  ✓ Bytecode Decompilation        │
+│  ✓ Native Library Analysis       │
+│  ✓ Protocol Reverse Engineering  │
+│  ✓ Binary Patching & Modification
+└──────────────────────────────────┘
+```
+
+### 4️⃣ Secure Development
+
+```
+┌──────────────────────────────────┐
+│  SECURE CODING PRACTICES         │
+├──────────────────────────────────┤
+│  ✓ OWASP Mobile Top 10 Prevention│
+│  ✓ Cryptography Implementation  │
+│  ✓ Secure Authentication        │
+│  ✓ Data Protection & Encryption │
+│  ✓ Input Validation & Sanitization
+│  ✓ Threat Modeling & Risk Analysis
+└──────────────────────────────────┘
+```
 
 ---
 
-## Connect With Me
+## 📊 GitHub Statistics
 
-- **GitHub** - [github.com/quoctoan07-vn](https://github.com/quoctoan07-vn)
-- **Telegram** - [@quoctoansieudz](https://t.me/quoctoansieudz)
-- **Email** - [nqtoan27@gmail.com](mailto:nqtoan27@gmail.com)
+```
+Profile Views   ━━━━━━━━━━━━━━━━━━━━ [View Details]
+Followers       ━━━━━━━━━━━━━━━━━━━━ [Follow Me]
+Stars           ━━━━━━━━━━━━━━━━━━━━ [Star Projects]
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=quoctoan07-vn&label=Profile%20Views&color=0e75b6&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/quoctoan07-vn?label=Followers&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/quoctoan07-vn?label=Stars&style=flat-square)
 
 ---
 
-*Security researcher dedicated to protecting mobile ecosystems through comprehensive testing and education.*
+## 🚀 Key Projects & Interests
+
+- **Mobile Security Research** - Discovering and analyzing Android vulnerabilities
+- **NDK Development** - Performance-critical native code for Android
+- **Security Tooling** - Building tools for penetration testing and analysis
+- **Vulnerability Disclosure** - Responsible disclosure of security issues
+- **Open Source Security** - Contributing to security-focused projects
+
+---
+
+## 📚 Knowledge Base
+
+**Mobile Security Standards**
+- OWASP Mobile Security Testing Guide
+- Android Security & Privacy Best Practices
+- NIST Cybersecurity Framework
+
+**Certifications & Learning**
+- Android Security Deep Dive
+- Native Code Security Analysis
+- Reverse Engineering Methodology
+
+---
+
+## 🔗 Get In Touch
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| **GitHub** | [github.com/quoctoan07-vn](https://github.com/quoctoan07-vn) |
+| **Telegram** | [@quoctoansieudz](https://t.me/quoctoansieudz) |
+| **Email** | [nqtoan27@gmail.com](mailto:nqtoan27@gmail.com) |
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+> *"Security is not a feature, it's a requirement. Every line of code should be written with security in mind."*
+
+- 🎯 Focus on practical security impact
+- 📖 Continuous learning and adaptation
+- 🤝 Collaborative vulnerability disclosure
+- 🔍 Deep analysis over surface-level findings
+- 💪 Building secure systems from the ground up
+
+---
+
+<div align="center">
+
+**Last Updated**: August 2026
+
+*Security researcher dedicated to protecting mobile ecosystems through comprehensive testing, research, and education.*
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔════════════════════════════════════════╗
+║   Thanks for visiting my profile! 👋   ║
+║   Let's build more secure software     ║
+╚════════════════════════════════════════╝
+```
+
+</div>
