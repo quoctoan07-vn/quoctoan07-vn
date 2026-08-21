@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:0D1117&height=200&section=header&text=Nong%20Quoc%20Toan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Security%20Researcher%20%7C%20Native%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:0D1117&height=200&section=header&text=Nong%20Quoc%20Toan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -30,8 +30,8 @@
 name:      "Nong Quoc Toan"
 role:      "Security Researcher & Developer"
 focus:     ["Reverse Engineering", "Native Development", "Mobile App Security", "Website Designer"]
-tools:     ["Frida", "IDA", "Ghidra ", "CMake", "NDK", "HackBar"]
-languages: ["C++", "Kotlin", "Java", "Python"]
+tools:     ["Frida", "IDA", "Ghidra", "CMake", "NDK", "HackBar", "Docker", "MySQL"]
+languages: ["C++", "Kotlin", "Java", "Python", "SQL"]
 contact:   "See below"
 ```
 
@@ -43,17 +43,21 @@ contact:   "See below"
   <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="22" alt=""/> <b>Reverse Engineering</b> &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/android/3DDC84" width="22" alt=""/> <b>Native NDK/C++</b> &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="22" alt=""/> <b>Mobile App Security</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="22" alt=""/> <b>Frida Instrumentation</b>
+  <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="22" alt=""/> <b>Frida Instrumentation</b> &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="22" alt=""/> <b>Docker</b> &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="22" alt=""/> <b>MySQL</b>
 </p>
 
 ## Tools
 
 <p>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22" alt=""/> <b>Frida</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/codeblocks/DD4A68" width="22" alt=""/> <b>IDA Pro</b> &nbsp;·&nbsp;
+  <img src="https://frida.re/img/logotype.svg" height="18" alt="Frida"/> <b>Frida</b> &nbsp;·&nbsp;
+  <img src="https://hex-rays.com/hs-fs/hubfs/ladyida.png?width=44&name=ladyida.png" width="22" alt="IDA Pro"/> <b>IDA</b> &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/cmake/064F8C" width="22" alt=""/> <b>CMake</b> &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" width="22" alt=""/> <b>Git</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="22" alt=""/> <b>Android Studio</b>
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="22" alt=""/> <b>Android Studio</b> &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="22" alt=""/> <b>Wireshark</b> &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="22" alt=""/> <b>Linux</b>
 </p>
 
 ## Languages
@@ -62,7 +66,8 @@ contact:   "See below"
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="22" alt=""/> <b>C++</b> &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="22" alt=""/> <b>Kotlin</b> &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="22" alt=""/> <b>Java</b> &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="22" alt=""/> <b>Python</b>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="22" alt=""/> <b>Python</b> &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="22" alt=""/> <b>SQL</b>
 </p>
 
 ---
