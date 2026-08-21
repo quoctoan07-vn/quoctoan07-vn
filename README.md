@@ -1,77 +1,106 @@
-<!--
-================================================================================
-   Nong Quoc Toan — Android Security Researcher & Native Developer
-================================================================================
--->
+# Nong Quoc Toan
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nong%20Quoc%20Toan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Security%20Researcher%20%7C%20Native%20Developer&descAlignY=55&descSize=18" width="100%"/>
-</div>
+**Android Security Researcher | Native Developer | Security Engineer**
 
-<div align="center">
-  <a href="https://github.com/quoctoan07-vn">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Android+Security+Researcher;Native+C%2B%2B+%2F+NDK+Developer;Reverse+Engineering+%26+Frida+Instrumentation;Building+secure+mobile+systems&font=Fira+Code&center=true&width=600&height=45&color=3DDC84&vCenter=true&size=22&pause=1500"/>
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/quoctoan07-vn"><img src="https://komarev.com/ghpvc/?username=quoctoan07-vn&label=PROFILE%20VIEWS&color=3DDC84&style=for-the-badge" alt="views"/></a>
-  <a href="https://github.com/quoctoan07-vn?tab=followers"><img src="https://img.shields.io/github/followers/quoctoan07-vn?label=FOLLOWERS&style=for-the-badge&color=3DDC84&logo=github&logoColor=white" alt="followers"/></a>
-  <a href="https://github.com/quoctoan07-vn"><img src="https://img.shields.io/github/stars/quoctoan07-vn?label=STARS&style=for-the-badge&color=3DDC84&logo=github&logoColor=white" alt="stars"/></a>
-</p>
-
-<br/>
+---
 
 ## About
 
-```yaml
-name:      "Nong Quoc Toan"
-role:      "Android Security Researcher & Native Developer"
-focus:     ["Reverse Engineering", "Native (NDK/C++) Development", "Mobile App Security"]
-tools:     ["Frida", "IDA Pro", "CMake"]
-languages: ["C++", "Kotlin", "Java", "Python"]
-contact:   "See below"
+Specialized in Android security research and native development with expertise in reverse engineering, vulnerability analysis, and secure coding practices. Passionate about building secure applications and discovering vulnerabilities through comprehensive security testing.
+
+```
+Role:       Android Security Researcher & Native Developer
+Focus:      Reverse Engineering, Native (NDK/C++) Development, Mobile App Security
+Languages:  C++, Kotlin, Java, Python
+Tools:      Frida, IDA Pro, CMake, Android Studio
+Email:      nqtoan27@gmail.com
 ```
 
-<br/>
+---
 
-## Skills & Tools
+## Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,androidstudio,git" />
-</p>
+### Programming Languages
+- **C/C++** - System programming, JNI development, performance-critical code
+- **Java** - Android application development, OOP design patterns
+- **Kotlin** - Modern Android development, coroutines, extension functions
+- **Python** - Security tooling, automation scripts, data analysis
 
-<p align="center">
-  <sub>Reverse engineering & instrumentation: Frida · IDA Pro · CMake</sub>
-</p>
+### Android Development
+- Android Framework & Core APIs
+- Android NDK (Native Development Kit)
+- JNI (Java Native Interface)
+- Android Security Model & Permissions
+- Activity/Fragment/Service Architecture
+- Gradle & Build Systems
 
-<br/>
+### Security & Analysis
+- **Reverse Engineering** - APK unpacking, decompilation, bytecode analysis
+- **Dynamic Analysis** - Runtime instrumentation, behavior monitoring
+- **Static Analysis** - Code review, vulnerability detection, threat modeling
+- **Tools** - Frida, IDA Pro, Android Debugger, Burp Suite, APKTool
 
-## GitHub Stats
+### Build & Development Tools
+- CMake - Cross-platform build configuration
+- Git - Version control workflows
+- Android Studio - Full IDE development
+- Gradle - Dependency management and automation
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quoctoan07-vn&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan07-vn&layout=compact&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=C9D1D9" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quoctoan07-vn&hide_border=true&background=0D1117&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84" />
-</p>
+## Experience & Expertise
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quoctoan07-vn&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
+- Android application security assessment and penetration testing
+- Native code security analysis and optimization
+- Vulnerability identification, classification, and remediation
+- Security architecture design and review
+- Exploit development and proof-of-concept creation
+- Code review and secure development consulting
 
-<br/>
+---
+
+## Focus Areas
+
+**Android Security**
+- Framework vulnerabilities and exploitation
+- Intent-based security flaws
+- Permission bypass techniques
+- Signature verification weaknesses
+
+**Native Security (C/C++)**
+- Memory safety vulnerabilities
+- Buffer overflow and heap exploitation
+- ROP gadget chains
+- ASLR and DEP bypass techniques
+
+**Reverse Engineering**
+- APK unpacking and obfuscation analysis
+- Native library decompilation
+- Protocol reverse engineering
+- Binary patching techniques
+
+**Secure Development**
+- OWASP Mobile Top 10 prevention
+- Secure coding guidelines
+- Cryptography implementation
+- Secure data storage practices
+
+---
+
+## Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=quoctoan07-vn&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/quoctoan07-vn?label=Followers&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/quoctoan07-vn?label=Stars&style=flat)
+
+---
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://github.com/quoctoan07-vn"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://t.me/quoctoansieudz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:nqtoan27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+- **GitHub** - [github.com/quoctoan07-vn](https://github.com/quoctoan07-vn)
+- **Telegram** - [@quoctoansieudz](https://t.me/quoctoansieudz)
+- **Email** - [nqtoan27@gmail.com](mailto:nqtoan27@gmail.com)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+---
+
+*Security researcher dedicated to protecting mobile ecosystems through comprehensive testing and education.*
