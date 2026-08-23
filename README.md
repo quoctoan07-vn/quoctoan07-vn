@@ -30,7 +30,7 @@
 name:      "Nong Quoc Toan"
 role:      "Security Researcher & Developer"
 focus:     ["Reverse Engineering", "Native Development", "Mobile App Security", "Website Designer"]
-tools:     ["Frida", "IDA", "Ghidra", "CMake", "NDK", "HackBar", "Docker", "MySQL"]
+tools:     ["Frida", "IDA", "Ghidra", "CMake", "NDK", "HackBar","Burp Suite", "JADX", "GDB", "Docker", "MySQL"]
 languages: ["C++", "Kotlin", "Java", "Python", "SQL"]
 contact:   "See below"
 ```
@@ -50,6 +50,11 @@ contact:   "See below"
     <td><img src="https://cdn.simpleicons.org/docker/2496ED" width="22" alt=""/> <b>Docker</b></td>
     <td><img src="https://cdn.simpleicons.org/mysql/4479A1" width="22" alt=""/> <b>MySQL</b></td>
   </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/arm/0091BD" width="22" alt=""/> <b>ARM64 Assembly</b></td>
+    <td><img src="https://cdn.simpleicons.org/kalilinux/557C93" width="22" alt=""/> <b>Vulnerability Research</b></td>
+    <td><img src="https://cdn.simpleicons.org/letsencrypt/003A70" width="22" alt=""/> <b>Anti-Reverse & OLLVM</b></td>
+  </tr>
 </table>
 
 ## Tools
@@ -67,6 +72,16 @@ contact:   "See below"
   </tr>
   <tr>
     <td colspan="3"><img src="https://cdn.simpleicons.org/linux/FCC624" width="22" alt=""/> <b>Linux</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="22" alt=""/> <b>Burp Suite</b></td>
+    <td><img src="https://cdn.simpleicons.org/ghidra/1A202C" width="22" alt=""/> <b>Ghidra</b></td>
+    <td><img src="https://cdn.simpleicons.org/android/3DDC84" width="22" alt=""/> <b>JADX / JEB</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/magisk/000000" width="22" alt=""/> <b>Magisk / KernelSU</b></td>
+    <td><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="22" alt=""/> <b>GDB / LLDB</b></td>
+    <td><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="22" alt=""/> <b>Wireshark</b></td>
   </tr>
 </table>
 
