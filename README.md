@@ -30,8 +30,6 @@
 name:      "Nong Quoc Toan"
 role:      "Security Researcher & Developer"
 focus:     ["Reverse Engineering", "Native Development", "Mobile App Security", "Website Designer"]
-tools:     ["Frida", "IDA", "Ghidra", "CMake", "NDK", "Burp Suite", "JADX", "GDB", "Docker", "MySQL"]
-languages: ["C++", "Kotlin", "Java", "Python", "SQL"]
 contact:   "See below"
 ```
 
