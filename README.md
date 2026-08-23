@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/quoctoan07-vn">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Android+Security+Researcher;Native+C%2B%2B+%2F+NDK+Developer;Reverse+Engineering+%26+Frida+Instrumentation;Building+secure+mobile+systems&font=Fira+Code&center=true&width=440&height=45&color=3DDC84&vCenter=true&size=18&pause=1500" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Android+Security+Researcher;Native+C%2B%2B+%2F+NDK+Developer;Reverse+Engineering+%26+Frida+Instrumentation;Building+secure+mobile+systems&font=Fira+Code&center=true&width=550&height=45&color=3DDC84&vCenter=true&size=18&pause=1500" alt="Typing SVG"/>
   </a>
 </div>
 
