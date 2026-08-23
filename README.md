@@ -71,9 +71,6 @@ contact:   "See below"
     <td><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="22" alt=""/> <b>Wireshark</b></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="https://cdn.simpleicons.org/linux/FCC624" width="22" alt=""/> <b>Linux</b></td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="22" alt=""/> <b>Burp Suite</b></td>
     <td><img src="https://cdn.simpleicons.org/ghidra/1A202C" width="22" alt=""/> <b>Ghidra</b></td>
     <td><img src="https://cdn.simpleicons.org/android/3DDC84" width="22" alt=""/> <b>JADX / JEB</b></td>
@@ -81,7 +78,7 @@ contact:   "See below"
   <tr>
     <td><img src="https://cdn.simpleicons.org/magisk/000000" width="22" alt=""/> <b>Magisk / KernelSU</b></td>
     <td><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="22" alt=""/> <b>GDB / LLDB</b></td>
-    <td><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="22" alt=""/> <b>Wireshark</b></td>
+    <td colspan="3"><img src="https://cdn.simpleicons.org/linux/FCC624" width="22" alt=""/> <b>Linux</b></td>
   </tr>
 </table>
 
