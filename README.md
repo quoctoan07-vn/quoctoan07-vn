@@ -90,7 +90,12 @@ contact:   "See below"
     <td><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="22" alt=""/> <b>Kotlin</b></td>
     <td><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="22" alt=""/> <b>Java</b></td>
     <td><img src="https://cdn.simpleicons.org/python/3776AB" width="22" alt=""/> <b>Python</b></td>
+  </tr>
+  <tr>
     <td><img src="https://cdn.simpleicons.org/sqlite/003B57" width="22" alt=""/> <b>SQL</b></td>
+    <td><img src="https://cdn.simpleicons.org/php/777BB4" width="22" alt=""/> <b>PHP</b></td>
+    <td><img src="https://cdn.simpleicons.org/html5/E34F26" width="22" alt=""/> <b>HTML</b></td>
+    <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22" alt=""/> <b>JavaScript</b></td>
   </tr>
 </table>
 
